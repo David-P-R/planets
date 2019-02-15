@@ -1,1 +1,2 @@
-Mars is cold andvery windy.
+Mars is cold and very windy.
+Mars has two moons.
